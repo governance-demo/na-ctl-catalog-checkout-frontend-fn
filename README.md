@@ -1,2 +1,6 @@
 # na-ctl-catalog-checkout-frontend-fn
-catalog / standard / na
+
+Team: **catalog**  
+Tier: **standard**  
+Region: **na**  
+Synthetic demo repo for the Domo governance platform.
